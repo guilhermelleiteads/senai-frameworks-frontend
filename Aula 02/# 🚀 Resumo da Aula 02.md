@@ -1,7 +1,3 @@
-npm start
-```【1-73da3f】
-
----
 
 # 📁 Estrutura do Projeto React
 
