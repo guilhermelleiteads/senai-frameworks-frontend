@@ -82,6 +82,8 @@ Abordando:
 - ✅ Deploy realizado na Vercel
 - ✅ URL pública acessível
 
+## 🔗 Links da Atividade
+
 [Atividade 3 git](https://github.com/guilhermelleiteads/Projeto-react.git)  
 [Atividade 3 vercel](https://projeto-react-theta-blue.vercel.app/)
 
