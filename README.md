@@ -1,8 +1,5 @@
 # disciplina-framework-front-end
 
-
-## 🔗 Links Atividades
-
 # 📝 Atividades Propostas
 
 # 1ª Aula
@@ -20,7 +17,9 @@ Posteriormente:
 
 - Criar repositório GitHub.
 - Conectar ao projeto.
-- Realizar deploy utilizando Vercel.【2-6919cb】
+- Realizar deploy utilizando Vercel.
+
+## 🔗 Links da Atividade
 
 [Atividade 1 git](https://github.com/guilhermelleiteads/senai-projeto-vanilla)  
 [Atividade 1 vercel](https://senai-projeto-vanilla-a2qc.vercel.app/)
@@ -55,15 +54,35 @@ Abordando:
 - Características
 - Vantagens
 - Aplicações no mercado
-- Exemplo de utilização【2-6919cb】
+- Exemplo de utilização
+
+## 🔗 Links da Atividade
 
 [Atividade 2] 
 [Atividade 2]
 
+---
 # 2ª Aula
 ---
 
+# 📝 Atividade Prática 03
 
+## 🎯 Desafio
+
+1. ⚛️ Criar uma aplicação React
+2. 🌿 Inicializar um repositório Git
+3. 📤 Publicar no GitHub
+4. ☁️ Conectar à Vercel
+5. 🚀 Publicar a aplicação online
+
+### ✅ Resultado Esperado
+
+- ✅ Aplicação React funcionando
+- ✅ Código disponível no GitHub
+- ✅ Deploy realizado na Vercel
+- ✅ URL pública acessível
 
 [Atividade 3 git](https://github.com/guilhermelleiteads/Projeto-react.git)  
 [Atividade 3 vercel](https://projeto-react-theta-blue.vercel.app/)
+
+---
