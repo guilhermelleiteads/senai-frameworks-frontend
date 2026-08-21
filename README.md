@@ -135,7 +135,11 @@ A atividade proporcionou experiência prática com diferentes frameworks Front-e
 [Atividade 4 vercel]()
 
 Projeto 01: quiz_react [Atividade 4 git](https://github.com/edilainesolde2024-blip/react) ⚛️ React
+
 Projeto 02: vue-project [Atividade 4 git](https://github.com/ronaldorfas/vueF1) 💚 Vue.js
+
 Projeto 03: meu-app-angular [Atividade 4 git](https://github.com/gabrielcamargogsilva/primeiro-projeto-angular) 🅰️ Angular
+
 Projeto 04: meu-projeto-nextjs [Atividade 4 git](https://github.com/guilhermelleiteads/Atividade-Projeto-04-next-js.git) [🌐 Ver Online](https://atividade-projeto-04-next-js.vercel.app/) ▲ Next.js
+
 Projeto 05: Uma cópia de um projeto [Atividade 4 git](https://github.com/fabiobitencourt93/Tetris) 💻 CSS / JavaScript
