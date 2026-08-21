@@ -103,3 +103,39 @@ Abordando:
 [Atividade 3 vercel](https://projeto-react-theta-blue.vercel.app/)
 
 ---
+# 2ª Aula
+---
+
+# 🚀 Atividade Prática 04
+
+O desenvolvimento da atividade consistiu na criação de aplicações utilizando diferentes tecnologias Front-end: **React, Vue.js, Angular e Next.js**, além da realização da cópia de um projeto existente a partir de um repositório Git.
+
+Durante o processo, todos os projetos foram versionados com **Git** e publicados no **GitHub**, mantendo um histórico de commits para acompanhar a evolução do desenvolvimento.
+
+## 📦 Projetos Entregues
+
+- ⚛️ Projeto 01: React
+- 🟢 Projeto 02: Vue.js
+- 🔴 Projeto 03: Angular
+- ⚡ Projeto 04: Next.js
+- 📂 Projeto 05: Cópia de um projeto de repositório
+
+## 📊 Comparação das Tecnologias
+
+- ⚛️ **React:** flexível e baseado em componentes.
+- 🟢 **Vue.js:** simples e de fácil aprendizado.
+- 🔴 **Angular:** framework completo e estruturado.
+- ⚡ **Next.js:** baseado em React, com melhor desempenho e SEO.
+
+## ✅ Conclusão
+
+A atividade proporcionou experiência prática com diferentes frameworks Front-end, reforçando conceitos de desenvolvimento web, versionamento com Git e gerenciamento de projetos utilizando o GitHub.
+
+[Atividade 4 git]()  
+[Atividade 4 vercel]()
+
+Projeto 01: quiz_react [Atividade 4 git](https://github.com/edilainesolde2024-blip/react) ⚛️ React
+Projeto 02: vue-project [Atividade 4 git](https://github.com/ronaldorfas/vueF1) 💚 Vue.js
+Projeto 03: meu-app-angular [Atividade 4 git](https://github.com/gabrielcamargogsilva/primeiro-projeto-angular) 🅰️ Angular
+Projeto 04: meu-projeto-nextjs [Atividade 4 git](https://github.com/guilhermelleiteads/Atividade-Projeto-04-next-js.git) [🌐 Ver Online](https://atividade-projeto-04-next-js.vercel.app/) ▲ Next.js
+Projeto 05: Uma cópia de um projeto [Atividade 4 git](https://github.com/fabiobitencourt93/Tetris) 💻 CSS / JavaScript
