@@ -131,9 +131,6 @@ Durante o processo, todos os projetos foram versionados com **Git** e publicados
 
 A atividade proporcionou experiência prática com diferentes frameworks Front-end, reforçando conceitos de desenvolvimento web, versionamento com Git e gerenciamento de projetos utilizando o GitHub.
 
-[Atividade 4 git]()  
-[Atividade 4 vercel]()
-
 Projeto 01: quiz_react [Atividade 4 git](https://github.com/edilainesolde2024-blip/react) ⚛️ React
 
 Projeto 02: vue-project [Atividade 4 git](https://github.com/ronaldorfas/vueF1) 💚 Vue.js
