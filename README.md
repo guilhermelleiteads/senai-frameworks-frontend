@@ -103,7 +103,7 @@ Abordando:
 [Atividade 3 vercel](https://projeto-react-theta-blue.vercel.app/)
 
 ---
-# 2ª Aula
+# 3ª Aula
 ---
 
 # 🚀 Atividade Prática 04
