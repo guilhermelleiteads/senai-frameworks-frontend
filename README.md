@@ -2,6 +2,20 @@
 
 # 📝 Atividades Propostas
 
+# 🚀 Aula Projeto - Repositório, Deploy e Tecnologia
+
+ 
+
+| Nº | Aula | Projeto | Repositório | Deploy | Tecnologia |
+|----|-------|----------|-------------|---------|------------|
+| 01 | Aula 01 | vannila.js | [🔗 Repositório](https://github.com/guilhermelleiteads/senai-projeto-vanilla) | [🌐 Ver Online](https://senai-projeto-vanilla-a2qc.vercel.app/) | 💻 CSS / JavaScript |
+| 02 | Aula 01 | projeto-react | 🔗 Repositório | 🌐 Ver Online | ⚛️ React |
+| 03 | Aula 02 | projeto-react | [🔗 Repositório](https://github.com/guilhermelleiteads/Projeto-react.git) | [🌐 Ver Online](https://projeto-react-theta-blue.vercel.app/) | ⚛️ React |
+| 04 | Aula 03 | quiz_react | 🔗 Repositório | 🌐 Ver Online | ⚛️ React |
+| 05 | Aula 03 | vue-project | 🔗 Repositório | 🌐 Ver Online | 💚 Vue.js |
+| 06 | Aula 03 | meu-app-angular | 🔗 Repositório | 🌐 Ver Online | 🅰️ Angular |
+| 07 | Aula 03 | meu-projeto-nextjs | [🔗 Repositório](https://github.com/guilhermelleiteads/Atividade-Projeto-04-next-js.git) | [🌐 Ver Online](https://atividade-projeto-04-next-js.vercel.app/) | ▲ Next.js |
+
 # 1ª Aula
 ---
 
