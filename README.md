@@ -7,7 +7,7 @@
  
 
 | Nº | Aula | Projeto | Repositório | Deploy | Tecnologia |
-|----|-------|----------|-------------|---------|---------|
+|----|---------|----------|-------------|---------|---------|
 | 01 | Aula 01 | vannila.js | [🔗 Repositório](https://github.com/guilhermelleiteads/senai-projeto-vanilla) | [🌐 Ver Online](https://senai-projeto-vanilla-a2qc.vercel.app/) | 💻 CSS / JavaScript |
 | 02 | Aula 01 | relatorio-tecnico | 🔗 Repositório | 🌐 Ver Online | ⚛️ React |
 | 03 | Aula 02 | projeto-react | [🔗 Repositório](https://github.com/guilhermelleiteads/Projeto-react.git) | [🌐 Ver Online](https://projeto-react-theta-blue.vercel.app/) | ⚛️ React |
