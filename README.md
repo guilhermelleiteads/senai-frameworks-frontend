@@ -9,7 +9,7 @@
 | Nº | Aula | Projeto | Repositório | Deploy | Tecnologia |
 |----|---------|----------|-------------|---------|---------|
 | 01 | Aula 01 | vannila.js | [🔗 Repositório](https://github.com/guilhermelleiteads/senai-projeto-vanilla) | [🌐 Ver Online](https://senai-projeto-vanilla-a2qc.vercel.app/) | 💻 CSS / JavaScript |
-| 02 | Aula 01 | relatorio-tecnico | 🔗 Repositório | 🌐 Ver Online | ⚛️ React |
+| 02 | Aula 01 | relatorio-tecnico | [🔗 Repositório](https://github.com/guilhermelleiteads/senai-frameworks-frontend/tree/main/Aula%2002/relatorio-tecnico-frameworks) | 🌐 Ver Online | ⚛️ React |
 | 03 | Aula 02 | projeto-react | [🔗 Repositório](https://github.com/guilhermelleiteads/Projeto-react.git) | [🌐 Ver Online](https://projeto-react-theta-blue.vercel.app/) | ⚛️ React |
 | 04 | Aula 03 | Projeto 01: quiz_react | [🔗 Repositório](https://github.com/edilainesolde2024-blip/react) | 🌐 Ver Online | ⚛️ React |
 | 05 | Aula 03 | Projeto 02: vue-project | [🔗 Repositório](https://github.com/ronaldorfas/vueF1) | 🌐 Ver Online | 💚 Vue.js |
