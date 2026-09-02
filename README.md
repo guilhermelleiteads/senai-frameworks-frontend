@@ -15,7 +15,7 @@
 | 05 | Aula 03 | Projeto 02: vue-project | [🔗 Repositório](https://github.com/ronaldorfas/vueF1) | 🌐 Ver Online | 💚 Vue.js |
 | 06 | Aula 03 | Projeto 03: meu-app-angular | [🔗 Repositório](https://github.com/gabrielcamargogsilva/primeiro-projeto-angular) | 🌐 Ver Online | 🅰️ Angular |
 | 07 | Aula 03 | Projeto 04: meu-projeto-nextjs | [🔗 Repositório](https://github.com/guilhermelleiteads/Atividade-Projeto-04-next-js.git) | [🌐 Ver Online](https://atividade-projeto-04-next-js.vercel.app/) | ▲ Next.js |
-| 08 | Aula 03 | Projeto 05: Uma cópia de um projeto | [🔗 Repositório](https://github.com/fabiobitencourt93/Tetris) | 🌐 Ver Online | 💻 CSS / JavaScript |
+| 08 | Aula 03 | Projeto 05: git clone | [🔗 Repositório](https://github.com/fabiobitencourt93/Tetris) | 🌐 Ver Online | 💻 CSS / JavaScript |
 | 09 | Aula 04 | Projeto 06: api | [🔗 Repositório](https://github.com/guilhermelleiteads/Projeto-API-Express) | [🌐 Ver Online](https://projeto-api-express.onrender.com) | 💻 CSS / JavaScript |
 | 10 | Aula 04 | Projeto 07: consumindo api | [🔗 Repositório](https://github.com/guilhermelleiteads/consumir-api-react) | [🌐 Ver Online](https://consumir-api-react-nine.vercel.app/) | 💻 CSS / JavaScript |
 
