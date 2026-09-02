@@ -18,7 +18,7 @@
 | 08 | Aula 03 | Projeto 05: Uma cópia de um projeto | [🔗 Repositório](https://github.com/fabiobitencourt93/Tetris) | 🌐 Ver Online | 💻 CSS / JavaScript |
 | 09 | Aula 04 | Projeto 06: api | [🔗 Repositório](https://github.com/guilhermelleiteads/Projeto-API-Express) | [🌐 Ver Online](https://projeto-api-express.onrender.com) | 💻 CSS / JavaScript |
 | 10 | Aula 04 | Projeto 07: consumindo api | [🔗 Repositório](https://github.com/guilhermelleiteads/consumir-api-react) | [🌐 Ver Online](https://consumir-api-react-nine.vercel.app/) | 💻 CSS / JavaScript |
-https://consumir-api-react-nine.vercel.app/
+
 # 1ª Aula
 ---
 
