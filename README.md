@@ -17,7 +17,11 @@
 | 07 | Aula 03 | Projeto 04: meu-projeto-nextjs | [🔗 Repositório](https://github.com/guilhermelleiteads/Atividade-Projeto-04-next-js.git) | [🌐 Ver Online](https://atividade-projeto-04-next-js.vercel.app/) | ▲ Next.js |
 | 08 | Aula 03 | Projeto 05: git clone | [🔗 Repositório](https://github.com/fabiobitencourt93/Tetris) | 🌐 Ver Online | 💻 CSS / JavaScript |
 | 09 | Aula 04 | Projeto 06: api | [🔗 Repositório](https://github.com/guilhermelleiteads/Projeto-API-Express) | [🌐 Ver Online](https://projeto-api-express.onrender.com) | 🌐 REST / API |
-| 10 | Aula 04 | Projeto 07: consumindo api | [🔗 Repositório](https://github.com/guilhermelleiteads/consumir-api-react) | [🌐 Ver Online](https://consumir-api-react-nine.vercel.app/) | ⚛️ React |
+| 10 | Aula 04 | Projeto 06: consumindo api | [🔗 Repositório](https://github.com/guilhermelleiteads/consumir-api-react) | [🌐 Ver Online](https://consumir-api-react-nine.vercel.app/) | ⚛️ React |
+| 11 | Aula 05 | Projeto 07: backend | [🔗 Repositório](https://github.com/guilhermelleiteads/exemplo-api-backend) | [🌐 Ver Online](https://exemplo-api-backend.onrender.com/api/notes) | ⚛️ React |
+| 12 | Aula 05 | Projeto 07: postman | 🔗 Repositório | [🌐 Ver Online](https://.postman.co/workspace/My-Workspace~74a4d89e-7209-4c08-8c5e-b84108a5327e/request/57921023-aa710591-3bae-4cae-b702-e7faf8eb6162?action=share&creator=57921023) | ⚛️ React |
+| 13 | Aula 05 | Projeto 07: frontend | [🔗 Repositório](https://github.com/guilhermelleiteads/exemplo-api-frontend) | [🌐 Ver Online](https://exemplo-api-frontend.vercel.app/) | ⚛️ React |
+
 
 # 1ª Aula
 ---
