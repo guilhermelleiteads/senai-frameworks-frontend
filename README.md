@@ -21,6 +21,8 @@
 | 11 | Aula 05 | Projeto 07: backend | [🔗 Repositório](https://github.com/guilhermelleiteads/exemplo-api-backend) | [🌐 Ver Online](https://exemplo-api-backend.onrender.com/api/notes) | ⚛️ React |
 | 12 | Aula 05 | Projeto 07: postman | 🔗 Repositório | [🌐 Ver Online](https://.postman.co/workspace/My-Workspace~74a4d89e-7209-4c08-8c5e-b84108a5327e/request/57921023-aa710591-3bae-4cae-b702-e7faf8eb6162?action=share&creator=57921023) | ⚛️ React |
 | 13 | Aula 05 | Projeto 07: frontend | [🔗 Repositório](https://github.com/guilhermelleiteads/exemplo-api-frontend) | [🌐 Ver Online](https://exemplo-api-frontend.vercel.app/) | ⚛️ React |
+| 14 | Aula 06 | Projeto 08: frontend | [🔗 Repositório](https://github.com/users/edilainesolde/projects/1/views/1?visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C%22Linked+pull+requests%22%2C%22Sub-issues+progress%22%2C410892711%2C410892710%2C%22Labels%22%2C410892709%5D) | 🌐 Ver Online | ⚛️ React |
+
 
 
 # 1ª Aula
