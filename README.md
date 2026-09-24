@@ -8,8 +8,12 @@
 
 | Nº | Aula | Projeto | Repositório | Deploy | Tecnologia |
 |----|---------|----------|-------------|---------|---------|
-| 01 | Aula 01 | vannila.js | [🔗 Repositório](https://github.com/guilhermelleiteads/senai-projeto-vanilla) | [🌐 Ver Online](https://senai-projeto-vanilla-a2qc.vercel.app/) | 💻 CSS / JavaScript |
-| 02 | Aula 01 | relatorio-tecnico | [🔗 Repositório](https://github.com/guilhermelleiteads/senai-frameworks-frontend/blob/main/Aula%2002/relatorio-tecnico-frameworks/relatorio-tecnico-frameworks.pdf) | 🌐 Ver Online | ⚛️ React |
+| 01 | Aula 01 | vannila.js | [🔗 Repositório](https://github.com/guilhermelleiteads/senai-projeto-vanilla) | [🌐 Ver Online](https://senai-projeto-vanilla-a2qc.vercel.app/) | 💻 HTML / CSS |
+| 02 | Aula 01 | relatorio-tecnico | [🔗 Repositório](https://github.com/guilhermelleiteads/senai-frameworks-frontend/blob/main/Aula%2002/relatorio-tecnico-frameworks/relatorio-tecnico-frameworks.pdf) | 🌐 Ver Online | <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="#E30613" viewBox="0 0 24 24">
+<path d="M6 2h9l5 5v15a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2z"/>
+<path fill="#fff" d="M15 2v5h5"/>
+<text x="12" y="17" font-size="6" text-anchor="middle" fill="#fff" font-family="Arial">PDF</text>
+</svg> PDF |
 | 03 | Aula 02 | projeto-react | [🔗 Repositório](https://github.com/guilhermelleiteads/Projeto-react.git) | [🌐 Ver Online](https://projeto-react-theta-blue.vercel.app/) | ⚛️ React |
 | 04 | Aula 03 | Projeto 01: quiz_react | [🔗 Repositório](https://github.com/edilainesolde2024-blip/react) | 🌐 Ver Online | ⚛️ React |
 | 05 | Aula 03 | Projeto 02: vue-project | [🔗 Repositório](https://github.com/ronaldorfas/vueF1) | 🌐 Ver Online | 💚 Vue.js |
