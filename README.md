@@ -9,11 +9,7 @@
 | Nº | Aula | Projeto | Repositório | Deploy | Tecnologia |
 |----|---------|----------|-------------|---------|---------|
 | 01 | Aula 01 | vannila.js | [🔗 Repositório](https://github.com/guilhermelleiteads/senai-projeto-vanilla) | [🌐 Ver Online](https://senai-projeto-vanilla-a2qc.vercel.app/) | 💻 HTML / CSS |
-| 02 | Aula 01 | relatorio-tecnico | [🔗 Repositório](https://github.com/guilhermelleiteads/senai-frameworks-frontend/blob/main/Aula%2002/relatorio-tecnico-frameworks/relatorio-tecnico-frameworks.pdf) | 🌐 Ver Online | <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="#E30613" viewBox="0 0 24 24">
-<path d="M6 2h9l5 5v15a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2z"/>
-<path fill="#fff" d="M15 2v5h5"/>
-<text x="12" y="17" font-size="6" text-anchor="middle" fill="#fff" font-family="Arial">PDF</text>
-</svg> PDF |
+| 02 | Aula 01 | relatorio-tecnico | [🔗 Repositório](https://github.com/guilhermelleiteads/senai-frameworks-frontend/blob/main/Aula%2002/relatorio-tecnico-frameworks/relatorio-tecnico-frameworks.pdf) | 🌐 Ver Online | 📄 PDF |
 | 03 | Aula 02 | projeto-react | [🔗 Repositório](https://github.com/guilhermelleiteads/Projeto-react.git) | [🌐 Ver Online](https://projeto-react-theta-blue.vercel.app/) | ⚛️ React |
 | 04 | Aula 03 | Projeto 01: quiz_react | [🔗 Repositório](https://github.com/edilainesolde2024-blip/react) | 🌐 Ver Online | ⚛️ React |
 | 05 | Aula 03 | Projeto 02: vue-project | [🔗 Repositório](https://github.com/ronaldorfas/vueF1) | 🌐 Ver Online | 💚 Vue.js |
@@ -26,8 +22,8 @@
 | 12 | Aula 05 | Projeto 07: postman | 🔗 Repositório | [🌐 Ver Online](https://.postman.co/workspace/My-Workspace~74a4d89e-7209-4c08-8c5e-b84108a5327e/request/57921023-aa710591-3bae-4cae-b702-e7faf8eb6162?action=share&creator=57921023) | ⚛️ React |
 | 13 | Aula 05 | Projeto 07: frontend | [🔗 Repositório](https://github.com/guilhermelleiteads/exemplo-api-frontend) | [🌐 Ver Online](https://exemplo-api-frontend.vercel.app/) | ⚛️ React |
 | 14 | Aula 06 | Projeto 08: frontend | [🔗 Repositório](https://github.com/users/edilainesolde/projects/1/views/1?visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C%22Linked+pull+requests%22%2C%22Sub-issues+progress%22%2C410892711%2C410892710%2C%22Labels%22%2C410892709%5D) | 🌐 Ver Online | <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/19546f69-c0dc-4eae-b09a-aaf8f595738c" /> GitHub |
-| 15 | Aula 07 | Projeto 09: CSS | [🔗 Repositório](https://github.com/guilhermelleiteads/Aula-CSS) | 🌐 Ver Online | <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/19546f69-c0dc-4eae-b09a-aaf8f595738c" /> GitHub |
-| 16 | Aula 07 | Projeto 010: CSS Tailwind | [🔗 Repositório](https://github.com/guilhermelleiteads/Aula-CSS-Tailwind) | 🌐 Ver Online | <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/19546f69-c0dc-4eae-b09a-aaf8f595738c" /> GitHub |
+| 15 | Aula 07 | Projeto 09: Vanilla CSS | [🔗 Repositório](https://github.com/guilhermelleiteads/Aula-CSS) | 🌐 Ver Online | 💻 HTML / CSS |
+| 16 | Aula 07 | Projeto 010: CSS Tailwind | [🔗 Repositório](https://github.com/guilhermelleiteads/Aula-CSS-Tailwind) | 🌐 Ver Online | 💻 Tailwind |
 
 
 
