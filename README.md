@@ -25,7 +25,7 @@
 | 15 | Aula 07 | Projeto 09: Vanilla CSS | [🔗 Repositório](https://github.com/guilhermelleiteads/Aula-CSS) | [🌐 Ver Online](https://github.com/guilhermelleiteads/Aula-CSS) | 💻 HTML / CSS |
 | 16 | Aula 07 | Projeto 010: CSS Tailwind | [🔗 Repositório](https://github.com/guilhermelleiteads/Aula-CSS-Tailwind) | [🌐 Ver Online](https://github.com/guilhermelleiteads/Aula-CSS-Tailwind) | 💻 Tailwind |
 | 17 | Aula Hackathon | Projeto 11: Hackathon | [🔗 Repositório](https://github.com/JV2008/InovaHub) | [🌐 Ver Online](https://inova-hub-jv2008s-projects.vercel.app/) | ⚛️ React |
-| 18 | Aula 11 conceitos | Projeto 12: React | [🔗 Repositório]([https://github.com/JV2008/InovaHub](https://github.com/guilhermelleiteads/gestao-atividades)) | [🌐 Ver Online]([https://inova-hub-jv2008s-projects.vercel.app/](https://guilhermelleiteads.github.io/gestao-atividades/)) | ⚛️ React |
+| 18 | Aula 11 conceitos | Projeto 12: React | [🔗 Repositório](https://github.com/guilhermelleiteads/gestao-atividades) | [🌐 Ver Online]([https://inova-hub-jv2008s-projects.vercel.app/](https://guilhermelleiteads.github.io/gestao-atividades/)) | ⚛️ React |
 
 
 # 1ª Aula
