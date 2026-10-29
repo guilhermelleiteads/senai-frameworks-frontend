@@ -22,8 +22,8 @@
 | 12 | Aula 05 | Projeto 07: postman | [🔗 Repositório](https://github.com/guilhermelleiteads/senai-frameworks-frontend/blob/main/Aula%2005/postman.jpg) | 🌐 Ver Online | <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/19546f69-c0dc-4eae-b09a-aaf8f595738c" /> GitHub |
 | 13 | Aula 05 | Projeto 07: frontend | [🔗 Repositório](https://github.com/guilhermelleiteads/exemplo-api-frontend) | [🌐 Ver Online](https://exemplo-api-frontend.vercel.app/) | ⚛️ React |
 | 14 | Aula 06 | Projeto 08: frontend | [🔗 Repositório](https://github.com/users/edilainesolde/projects/1/views/1?visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C%22Linked+pull+requests%22%2C%22Sub-issues+progress%22%2C410892711%2C410892710%2C%22Labels%22%2C410892709%5D) | 🌐 Ver Online | <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/19546f69-c0dc-4eae-b09a-aaf8f595738c" /> GitHub |
-| 15 | Aula 07 | Projeto 09: Vanilla CSS | [🔗 Repositório](https://github.com/guilhermelleiteads/Aula-CSS) | [🌐 Ver Online](https://github.com/guilhermelleiteads/Aula-CSS) | 💻 HTML / CSS |
-| 16 | Aula 07 | Projeto 010: CSS Tailwind | [🔗 Repositório](https://github.com/guilhermelleiteads/Aula-CSS-Tailwind) | [🌐 Ver Online](https://github.com/guilhermelleiteads/Aula-CSS-Tailwind) | 💻 Tailwind |
+| 15 | Aula 07 | Projeto 09: Vanilla CSS | [🔗 Repositório](https://github.com/guilhermelleiteads/Aula-CSS) | [🌐 Ver Online](https://guilhermelleiteads.github.io/Aula-CSS/) | 💻 HTML / CSS |
+| 16 | Aula 07 | Projeto 010: CSS Tailwind | [🔗 Repositório](https://github.com/guilhermelleiteads/Aula-CSS-Tailwind) | [🌐 Ver Online](https://guilhermelleiteads.github.io/Aula-CSS-Tailwind/) | 💻 Tailwind |
 | 17 | Hackathon | Projeto 11: Hackathon | [🔗 Repositório](https://github.com/JV2008/InovaHub) | [🌐 Ver Online](https://inova-hub-jv2008s-projects.vercel.app/) | ⚛️ React |
 | 18 | Aula 8 e 9 | Projeto 12: 11 conceitos | [🔗 Repositório](https://github.com/guilhermelleiteads/gestao-atividades) | [🌐 Ver Online](https://guilhermelleiteads.github.io/gestao-atividades/) | ⚛️ React |
 
