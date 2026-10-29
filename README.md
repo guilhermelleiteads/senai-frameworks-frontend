@@ -395,4 +395,4 @@ O conjunto das atividades permitiu aplicar conhecimentos teóricos em projetos r
 
 ## 👨‍💻 Autor
 
-Desenvolvido como parte das atividades da disciplina não esqueça de deixar uma estrela no repositório!
+Desenvolvido como parte das atividades da disciplina.
